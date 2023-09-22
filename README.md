@@ -7,7 +7,7 @@ I'm StrykeTom also known as Zh4 and Tony. I love coding and pentesting.
 ## What I'm currently doing?
 > Now I am working on personal projects to start as a startup :)
 
-> I'm learning data science and machine learning
+> I'm learning rust and machine learning
 
 ## Projects made
 - New project will come soon 😏
@@ -16,9 +16,6 @@ I'm StrykeTom also known as Zh4 and Tony. I love coding and pentesting.
 
 ## My stats
 ![StrykeTom GitHub stats](https://github-readme-stats.vercel.app/api?username=stryketom)
-
-## Loved languages 😍
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stryketom)
 
 ## Wish to contact me?
 Discord: stryketom
