@@ -22,4 +22,5 @@ I'm StrykeTom also known as Zh4 and Tony. I love coding and pentesting.
 
 ## Wish to contact me?
 Discord: stryketom
+
 WhatsApp: You really though I would add this huh? 🤣
