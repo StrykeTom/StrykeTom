@@ -3,7 +3,7 @@
 I'm StrykeTom also known as Zh4 and Tony. I love coding and pentesting.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cpp,cs,java,react,py,nodejs,lua,tailwind,electron,androidstudio,azure,aws,cloudflare,bots,dotnet,eclipse,express,idea,linux,tauri,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cpp,cs,java,react,py,nodejs,lua,tailwind,electron,androidstudio,azure,aws,cloudflare,bots,dotnet,eclipse,express,idea,linux,tauri,vscode)]
 ## What I'm currently doing?
 > Now I am working on personal projects to start as a startup :)
 
