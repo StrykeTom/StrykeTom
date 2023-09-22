@@ -11,7 +11,7 @@ I'm StrykeTom also known as Zh4 and Tony. I love coding and pentesting.
 
 ## Projects made
 - New project will come soon 😏
-- Scarlex (https://discord.gg/scarlex | https://t.me/scarlex)
+- Scarlex (https://discord.gg/soon | https://t.me/soon)
 
 
 ## My stats
