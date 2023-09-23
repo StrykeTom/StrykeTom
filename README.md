@@ -15,7 +15,7 @@ I'm StrykeTom also known as Zh4 and Tony. I love coding and pentesting.
 
 
 ## My stats
-![StrykeTom GitHub stats](https://github-readme-stats.vercel.app/api?username=stryketom)
+![StrykeTom GitHub stats](https://github-readme-stats.vercel.app/api?username=StrykeTom)
 
 ## Wish to contact me?
 Discord: stryketom
